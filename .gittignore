@@ -1,0 +1,24 @@
+# Derleme klasörü
+build/
+
+# CMake kullanıcı dosyası
+CMakeLists.txt.user
+*.user.*
+
+# Qt Creator tarafından oluşturulan geçici dosyalar
+*.pro.user*
+*.qrc.dep
+
+# Derleme sırasında oluşan ikili dosyalar
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+*.log
+
+# MacOS özel dosyası
+.DS_Store
+
